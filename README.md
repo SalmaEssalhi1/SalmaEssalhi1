@@ -2,9 +2,7 @@
 <h3 align="center">Software & Intelligent Systems Engineering student | Passionate about AI & Automation</h3>
 
 <p align="center"> 
-![WhatsApp Image 2026-04-13 at 13 56 09](https://github.com/user-attachments/assets/6fdd06d3-5e4a-4ec7-b2c2-92973ae8ed6d)
-
-  
+  <img src="https://komarev.com/ghpvc/?username=SalmaEssalhi1&label=Profile%20views&color=0e75b6&style=flat" alt="moussa-mohand2005" /> 
 </p>
 
 ---
